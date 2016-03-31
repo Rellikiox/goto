@@ -1,0 +1,10 @@
+
+
+=Version 1.1=
+	- Added the -r option to remove an existing tag.
+	- Changed the way the tags are stored (after updating you have to manually change your file).
+	- Added support for autocomplete.
+	- Added -o behavior: if you don't specify a tag it opens the current directory.
+	
+=Version 1.2=
+	- Improved the completion behavior
