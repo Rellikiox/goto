@@ -5,6 +5,9 @@
 	- Changed the way the tags are stored (after updating you have to manually change your file).
 	- Added support for autocomplete.
 	- Added -o behavior: if you don't specify a tag it opens the current directory.
-	
+
 =Version 1.2=
 	- Improved the completion behavior
+
+=Version 1.3=
+	- Added command -a without PATH to create tag in current directory.
